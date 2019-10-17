@@ -1,0 +1,26 @@
+{
+  "name": "spotify-wrapper-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VicLeite/spotify-wrapper-player.git"
+  },
+  "keywords": [
+    "spotify",
+    "player"
+  ],
+  "author": "Victoria Leite <victoria.vl73@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VicLeite/spotify-wrapper-player/issues"
+  },
+  "homepage": "https://github.com/VicLeite/spotify-wrapper-player#readme",
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
+}
